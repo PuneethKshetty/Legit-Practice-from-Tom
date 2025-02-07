@@ -16,7 +16,7 @@ vector<int> twoSum(vector<int> &nums, int target)
         }
       else
         {
-            mp[nums[i]) = i;
+            mp[nums[i]] = i;
         }
     }
   return res;   
