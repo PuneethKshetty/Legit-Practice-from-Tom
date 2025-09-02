@@ -1,2 +1,4 @@
 Day 1:
-1. Best Time to buy and sell stocks -Arrays, DP
+Arrays:
+1. Two Sum 
+2. Best Time to buy and sell stocks [DP]
